@@ -1,0 +1,8 @@
+Exam: 1001
+Subject: MATHS
+
+Student ID	Seat Number
+--------------------------------
+25BAI11016		A01
+25BAI11017		A02
+25BAI10537		A03
